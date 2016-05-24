@@ -1,4 +1,6 @@
 # Towny
+
+[![Join the chat at https://gitter.im/xson01234/Towny](https://badges.gitter.im/xson01234/Towny.svg)](https://gitter.im/xson01234/Towny?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 Plugin for MCPE Server
 Resident-Town-Nation heirarchy combined with a grid based
     protection system. Including a war event.
